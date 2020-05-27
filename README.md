@@ -10,7 +10,7 @@ A simple and funny javascript game.
 
 ## Screenshots
 
-<img src="https://github.com/Marcosh22/mata_mosquito_game/blob/master/screenshot.gif?raw=true" height="500em" />
+<img src="https://github.com/Marcosh22/mata_mosquito_game/blob/master/screenshot.gif?raw=true" height="300em" />
 
 ## Authors
 
